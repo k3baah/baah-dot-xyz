@@ -1,7 +1,7 @@
 const siteMeta = {
-	author: "Chris Williams",
-	title: "Astro Theme Cactus",
-	description: "An opinionated starter theme for Astro",
+	author: "Kofi Baah",
+	title: "Kofi Baah",
+	description: "My Blog",
 	lang: "en-GB",
 	ogLocale: "en_GB",
 	githubUrl: "https://github.com/chrismwilliams/astro-theme-cactus",
