@@ -1,7 +1,7 @@
 ---
 title: "25 Lessons at 25"
-publishDate: "4th March 2023"
 description: "25 Lessons at 25 (I'm not actually 25 for another three weeks)."
+publishDate: "4th March 2023"
 tags: ["example", "blog", "cool"]
 ---
 
