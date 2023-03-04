@@ -1,12 +1,12 @@
 ---
 title: "25 Lessons at 25"
-description: "25 Lessons at 25 (I'm not actually 25 for another three weeks)."
+description: ""
 publishDate: "04 Mar 2023"
 tags: []
 ---
 
 
-# 25 Lessons at 25
+## 25 Lessons at 25
 
 1. [How you spend every day is how you spend your life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life)
 2. Saying yes to one thing means saying no to everything else
