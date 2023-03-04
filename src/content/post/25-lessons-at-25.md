@@ -1,8 +1,8 @@
 ---
 title: "25 Lessons at 25"
-description: ""
+description: "I turn 25 in a few weeks. Here are some of the most important lessons I've learned."
 publishDate: "04 Mar 2023"
-tags: []
+tags: ["life"]
 ---
 
 1. [How you spend every day is how you spend your life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life)
