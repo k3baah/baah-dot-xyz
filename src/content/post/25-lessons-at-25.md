@@ -1,3 +1,11 @@
+---
+title: "25 Lessons at 25"
+publishDate: "4th March 2023"
+description: "25 Lessons at 25"
+tags: ["example", "blog", "cool"]
+---
+
+
 # 25 Lessons at 25
 
 1. [How you spend every day is how you spend your life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life)
