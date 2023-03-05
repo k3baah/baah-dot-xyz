@@ -25,8 +25,8 @@ export const MENU_LINKS = [
 
 // ! Remember to add your own socials
 export const SOCIAL_LINKS = {
-	github: "https://github.com/chrismwilliams/astro-cactus",
+	github: "https://github.com/k3baah/",
 	twitter: "https://twitter.com/k3baah",
-	discord: "https://github.com/chrismwilliams/astro-cactus",
-	email: "k3baah@protonmail.com"
+	discord: "",
+	email: "kbaah@protonmail.com"
 };

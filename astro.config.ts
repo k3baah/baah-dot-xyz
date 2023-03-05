@@ -10,7 +10,7 @@ export default defineConfig({
 	site: "https://www.kofibaah.com",
 	markdown: {
 		shikiConfig: {
-			theme: "dracula",
+			theme: "night-owl",
 			wrap: true,
 		},
 	},
