@@ -11,12 +11,12 @@ publishDate: "04 Mar 2023"
 5. [Find what feels like play to you, but looks like work to others.](https://podclips.com/ct/8YLirL)
 6. Once you do, be consistent and let compounding do the work.
 7. Anything is possible within the laws of physics.
-8. [Fear is the only thing in your way.](https://www.youtube.com/watch?v=KgzcF47kxGw&t=314s&ab_channel=FreedominThought)
+8. [Fear is what's stopping you.](http://thediamondsmine.com/files/Ebooks/Brande-WakeUpAndLive.pdf)
 9. Learn the basics.
 10. Focus on one thing at a time.
 11. [The obstacle is the way.](https://www.youtube.com/watch?v=KgzcF47kxGw&t=314s&ab_channel=FreedominThought)
 12. A problem solved is problem forgotten.
-13. “If X happens, I will be fulfilled forever” is an illusion.
+13. “When I get X, I will be fulfilled forever” is an illusion.
 14. The easiest person to fool is yourself.
 15. [There is always a third way.](https://youtu.be/IQdykOFqsB0?t=213)
 16. You always have a choice.
@@ -27,5 +27,5 @@ publishDate: "04 Mar 2023"
 21. Think in terms of likelihoods, not certainties.
 22. [Life is more random than it seems.](https://twitter.com/dvassallo/status/1458841398619168771)
 23. You don’t have to give yourself a hard time.
-24. Thoughtful feedback is incredibly valuable.
+24. Thoughtful feedback is valuable.
 25. Most advice should be ignored.
