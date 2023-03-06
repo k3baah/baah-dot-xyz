@@ -20,7 +20,12 @@ export const MENU_LINKS = [
 
 		title: "Email",
 		path: "mailto:example@example.com"
+	},
+	
+	{ title: "Subscribe",
+		path: "/Subscribe"
 	}
+
 ];
 
 // ! Remember to add your own socials
