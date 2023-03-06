@@ -1,6 +1,6 @@
 ---
 title: "25 Lessons at 25"
-description: "I turn 25 in a few weeks. Here are some of the most important lessons I've learned."
+description: "I turn 25 in a few weeks. These are the most important lessons I've learned."
 publishDate: "04 Mar 2023"
 ---
 
