@@ -1,6 +1,6 @@
 export const MENU_LINKS = [
 	{
-		title: "Home",
+		title: "Posts",
 		path: "/",
 	},/*
 	{
