@@ -2,7 +2,7 @@
 title: "25 Lessons at 25"
 description: "I turn 25 in a few weeks. These are the most important lessons I've learned."
 publishDate: "04 Mar 2023"
-ogImage: "https://cdn.discordapp.com/attachments/1040730123445485628/1082277137853202552/boatly_cinematic_cloud_scene_pixel_art_1343fd85-cc1d-43da-93f7-3e9e42865de9.png"
+ogImage: "https://ibb.co/D18PcH8"
 ---
 
 1. [How you spend every day is how you spend your life.](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life#:~:text=How%20you%20spend%20every%20day%20is%20how%20you%20spend%20your%20life.%C2%A0)
