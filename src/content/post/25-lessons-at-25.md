@@ -4,7 +4,7 @@ description: "I turn 25 in a few weeks. Here are some of the most important less
 publishDate: "04 Mar 2023"
 ---
 
-1. [How you spend every day is how you spend your life.](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life)
+1. [How you spend every day is how you spend your life.](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life#:~:text=How%20you%20spend%20every%20day%20is%20how%20you%20spend%20your%20life.%C2%A0)
 2. Saying yes to one thing means saying no to everything else.
 3. You can only have one priority.
 4. Your desires are controlled by the people around you.
@@ -18,14 +18,14 @@ publishDate: "04 Mar 2023"
 12. A problem solved is problem forgotten.
 13. *“Once I have X, I will be fulfilled forever”* is the perennial illusion.
 14. The easiest person to fool is yourself.
-15. [There is always a third way.](https://youtu.be/IQdykOFqsB0?t=213)
+15. [Look for the third way.](https://youtu.be/IQdykOFqsB0?t=213)
 16. You always have a choice.
 17. Some decisions have permanent consequences. Not every decision can be reversed.
 18. Most decisions can be reversed.
-19. Your decisions have unpredictable second-order effects long into the future.
-20. The worst-case scenario is unlikely, but possible. Don’t be naive, but don’t be anxious.
+19. Your decisions will have second-order effects long into the future. 
+20. The worst-case scenario is unlikely, but not impossible. Don’t be naive, but don’t be anxious.
 21. Think in likelihoods, not certainties.
 22. [Life is more random than it seems.](https://twitter.com/dvassallo/status/1458841398619168771)
 23. You don’t need to give yourself a hard time.
-24. Thoughtful feedback is valuable.
-25. Most advice should be ignored.
+24. Thoughtful feedback is a gift.
+25. Most advice can be ignored.
