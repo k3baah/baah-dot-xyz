@@ -7,11 +7,11 @@ import siteConfig from "@/site-config";
 import { getFormattedDate } from "@/utils";
 
 const monoFontReg = await fetch(
-	"https://api.fontsource.org/v1/fonts/roboto-mono/latin-400-normal.ttf"
+	"https://api.fontsource.org/v1/fonts/open-sans/latin-400-normal.ttf"
 );
 
 const monoFontBold = await fetch(
-	"https://api.fontsource.org/v1/fonts/roboto-mono/latin-700-normal.ttf"
+	"https://api.fontsource.org/v1/fonts/open-sans/latin-700-normal.ttf"
 );
 
 const ogOptions: SatoriOptions = {
@@ -21,20 +21,20 @@ const ogOptions: SatoriOptions = {
 	embedFont: true,
 	fonts: [
 		{
-			name: "Roboto Mono",
+			name: "Open Sans",
 			data: await monoFontReg.arrayBuffer(),
 			weight: 400,
 			style: "normal",
 		},
 		{
-			name: "Roboto Mono",
+			name: "Open Sans",
 			data: await monoFontBold.arrayBuffer(),
 			weight: 700,
 			style: "normal",
 		},
 	],
 };
-
+/*
 const markup = (title: string, pubDate: string) => html`<div
 	tw="flex flex-col w-full h-full bg-[#1d1f21] text-[#c9cacc]"
 >
@@ -44,6 +44,7 @@ const markup = (title: string, pubDate: string) => html`<div
 	</div>
 	<div tw="flex items-center justify-between w-full p-10 border-t border-[#2bbc89] text-xl">
 		<div tw="flex items-center">
+		
 			<svg height="60" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272 480">
 				<path
 					d="M181.334 93.333v-40L226.667 80v40l-45.333-26.667ZM136.001 53.333 90.667 26.667v426.666L136.001 480V53.333Z"
@@ -63,7 +64,24 @@ const markup = (title: string, pubDate: string) => html`<div
 		</div>
 		<p>by ${siteConfig.author}</p>
 	</div>
+</div>`;*/
+
+const markup = (title: string, pubDate: string) => html`<div
+  tw="flex flex-col w-full h-full bg-[#001728] text-[#c8d6e1]"
+>
+  <div tw="flex flex-col flex-1 w-full p-10 justify-center">
+    <p tw="text-2xl mb-6">${pubDate}</p>
+    <h1 tw="text-6xl font-bold leading-snug text-white">${title}</h1>
+  </div>
+  <div tw="flex items-center justify-between w-full p-10 border-t border-[#2bbc89] text-xl">
+    <div tw="flex items-center">
+      <img src="/192x192.png" alt="Logo" width="60" height="60" />
+      <p tw="ml-3 font-semibold">${siteConfig.title}</p>
+    </div>
+    <p>by ${siteConfig.author}</p>
+  </div>
 </div>`;
+
 
 export async function get({ params: { slug } }: APIContext) {
 	const post = await getEntryBySlug("post", slug!);
