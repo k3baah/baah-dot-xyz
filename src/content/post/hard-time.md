@@ -1,6 +1,6 @@
 ---
 title: "You Don't Need To Give Yourself a Hard Time"
-description: "Self-criticism after mistakes is unhelpful; instead, learn from your them by approaching yourself with curiosity."
+description: "Self-criticism after mistakes is unhelpful; instead, learn from them by approaching yourself with curiosity."
 publishDate: "15 Mar 2023"
 ogImage: "https://www.linkpicture.com/q/boatly_cinematic_cloud_scene_pixel_art_1343fd85-cc1d-43da-93f7-3e9e42865de9.png"
 ---
