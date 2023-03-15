@@ -19,7 +19,7 @@ export const MENU_LINKS = [
 	{
 
 		title: "Email",
-		path: "mailto:example@example.com"
+		path: "mailto:kbaah@protonmail.com"
 	},
 	
 	{ title: "Subscribe",
