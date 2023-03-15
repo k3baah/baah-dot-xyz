@@ -28,4 +28,4 @@ Acknowledging your mistakes without being hard on yourself doesn't mean avoiding
 
 
 
-Thanks to [Michael Ashcroft](https://twitter.com/m_ashcroft) for reading a draft of this.
+*Thanks to [Michael Ashcroft](https://twitter.com/m_ashcroft) for reading a draft of this.*
