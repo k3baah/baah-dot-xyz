@@ -1,20 +1,11 @@
 ---
 title: "You Don't Need To Give Yourself a Hard Time"
-description: ""
+description: "Self-criticism after mistakes is unhelpful; instead, learn from your them by approaching yourself with curiosity."
 publishDate: "15 Mar 2023"
 ogImage: "https://www.linkpicture.com/q/boatly_cinematic_cloud_scene_pixel_art_1343fd85-cc1d-43da-93f7-3e9e42865de9.png"
 ---
 
 
-***Summary***
-
-1. *Self-criticism after mistakes is unhelpful; instead, focus on compassion and curiosity to adopt new behaviors and learn from your experiences.*
-2. *Observe your mental processes over time, allowing your perspective to become more spacious and shift towards a higher-order vantage point.*
-3. *Identify thought patterns in specific situations, and recognize that a thought is part of a pattern to reduce its emotional weight.*
-4. *Anticipate thought patterns and choose how to respond, either by observing them or gently disengaging from them.*
-5. *Acknowledge your mistakes and their consequences without labeling yourself as a "bad person"; you don't have to make yourself feel worse.*
-
-***Full Post***
 Most of us have had the experience of making a mistake and immediately being hard on ourselves. This is never useful, because you don't learn from mistakes by criticizing yourself.
 
 Criticism is useful from other people, as they actually need to explain what you did wrong. But self-criticism is as useful for learning from mistakes as  [thinking about your tennis swing](https://every.to/expanding-awareness/how-to-get-out-of-your-own-way-at-work#:~:text=they%20come%20from.-,The%20two%20selves,-In%20The%20Inner) in the middle of a match. Both just disrupt the natural process.
